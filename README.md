@@ -4,6 +4,24 @@ A fullstack travel experience booking application built with Next.js, TypeScript
 
 ## Assignment Completion ✅
 
+## Application Flow
+
+### 1. Home Page - Browse Experiences
+![Home Page](./public/home1.png)
+![Home Page](./public/home2.png)
+
+### 2. Experience Details - View Slots & Information
+![Details Page](./public/exp1.png)
+![Details Page](./public/exp2.png)
+
+### 3. Checkout - Enter Details & Apply Promo
+![Checkout Page](./public/chech1.png)
+![Checkout Page](./public/check2.png)
+
+### 4. Confirmation - Booking Success
+![Confirmation Page](./public/confirm.png)
+
+
 ### Frontend Requirements
 - ✅ **Framework:** React + TypeScript with Next.js
 - ✅ **Styling:** TailwindCSS implemented throughout
@@ -50,22 +68,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
-## Application Flow
-
-### 1. Home Page - Browse Experiences
-![Home Page](./public/home1.png)
-![Home Page](./public/home2.png)
-
-### 2. Experience Details - View Slots & Information
-![Details Page](./public/exp1.png)
-![Details Page](./public/exp2.png)
-
-### 3. Checkout - Enter Details & Apply Promo
-![Checkout Page](./public/chech1.png)
-![Checkout Page](./public/check2.png)
-
-### 4. Confirmation - Booking Success
-![Confirmation Page](./public/confirm.png)
 
 ## API Endpoints
 
